@@ -1,0 +1,9 @@
+{
+    "short_name": "Trojan Sim",
+    "name": "Educational Trojan Horse Simulator",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#1a1a2e"
+  }
